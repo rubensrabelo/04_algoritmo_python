@@ -1,4 +1,4 @@
-arq = open(r"C:\Users\ruben\OneDrive\Documentos\pratica\04_algoritmo_python\arq.txt", "r")
+arq = open(r"arq.txt", "r")
 
 #print(type(arq))
 
